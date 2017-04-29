@@ -1,0 +1,1 @@
+JMH S 22 org.sample.MyBenchmark S 51 org.sample.generated.MyBenchmark_testMethod_jmhTest S 10 testMethod S 11 AverageTime E A 1 1 1 E I 2 50 T 6 200 ms E I 2 50 T 6 200 ms E I 1 1 E E E E E E U 11 NANOSECONDS E E 
